@@ -8,6 +8,7 @@ A modular, lightweight remote administration tool (RAT) framework built for rese
 0.7D is designed as a modular communication and management suite. It provides low-level process interaction, persistent connection handling, and structured telemetry piping between client nodes and the controller interface.
 
 ### Core Architecture
+<img width="860" height="355" alt="Screenshot 2026-11-06 034221" src="https://github.com/user-attachments/assets/c4b0b8a1-8070-4e41-992f-9121260937ec" />
 
 - **Socket Communication:** Asynchronous TCP/UDP socket management with encrypted payload wrapping.
 - **Process Management:** Remote process enumeration, memory region inspection, and dynamic execution threads.
