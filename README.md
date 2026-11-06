@@ -1,4 +1,4 @@
-# 0.7D Rat Framework
+# 0.7D NJRAT SRC
 
 A modular, lightweight remote administration tool (RAT) framework built for research, system automation, and remote telemetry analysis.
 
